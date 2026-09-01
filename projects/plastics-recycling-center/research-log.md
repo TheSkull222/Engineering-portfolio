@@ -11,7 +11,7 @@
 
 - Why address plastic waste?
 - Is recycling plastic beneficial?
-- What plastic might schools supply?
+- What plastic might our own schools supply and what is being done about it?
 
 ### Research Findings
 
@@ -37,34 +37,34 @@ Recycling is one of the many ways to slow down and clean up the plastics and tra
 reuse/refillable systems, innovation, and even more. Recycling needs to also be a more accessible and affordable practice.
 
 **Why it matters to our project:**  
-
+Without recycling and it's other practices trash would be everywhere, piled high. Some people can't recycle as they don't have a car to drive to recycling centers or don't have trash bins that are for recycling.
 
 **Source:**  
-[Source title](paste URL here)
+[The Growing Challenge of Plastic Waste: Causes, Consequences, and Solutions](https://www.aiu.edu/blog/the-growing-challenge-of-plastic-waste-causes-consequences-and-solutions/)
 
-#### Finding 3: [Descriptive heading]
+#### Finding 3: [What plastics might our own schools supply and what is being done about it?]
 
 **What I found:**  
+Many schools use single-use plastics like food containers, bottles, and plastic utensils. Schools combat this by adding water fountains for less use of bottled water, more paper containers, recycling bins in the cafeteria and classrooms.  
 
 **Why it matters to our project:**  
+Schools are who teach the next generations, making them more aware of the issues and problems of pollutions can have positive impacts as they turn up more willing to recycle and help.
 
 **Source:**  
-[Source title](paste URL here)
+[HOW STUDENTS CAN HELP REDUCE PLASTIC WASTE AT HOME AND SCHOOL](https://www.jaypeeschools-jpsnoida.edu.in/blogs/how-students-can-help-reduce-plastic-waste-at-home-and-school)
 
 ### Source Reliability
 
-Explain briefly why your sources are trustworthy.
+I use education websites, usually from schools, so the person behind the information is usually people who know what they are talking about and know the facts and research.
 
 ### Most Important Conclusion
 
-What is the most important thing the project team should learn from
-your research?
+Plastic waste and pollution is very dangerous and should never be ignored, we need to work together to save our planet and animals. 
 
 ### New Questions
 
-- 
-- 
+- None so far.
 
 ### Recommended Next Step
 
-What should you or the team investigate next?
+Research more about this.
