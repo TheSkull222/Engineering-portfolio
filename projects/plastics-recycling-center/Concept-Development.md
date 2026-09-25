@@ -17,22 +17,22 @@ Number 2:
 
 ## Project Schedule Outline
 
-Task:
+Task: Design the shredder.
 
-Team:
+Team: Shredder Team.
 
-Depends On:
+Depends On: How much space and money we have.
 
-Estimated Time:
+Estimated Time: a few weeks.
 
 ## Parts
 
-- Ceramic Ring Heating Element
+- Ceramic Ring Heating Element (For melting the plastic "PET" as it moves through the tube)
   - 100w/0.91 amps
   - 15-55 dollars
   - 900'F-1200'F
-- Archimedes Screw
+- Archimedes Screw (Pushes the shreds as they melt and pushes the melted plastic into the mold)
   - <img width="250" height="177" alt="image" src="https://github.com/user-attachments/assets/5c8d5df6-bf52-426d-ab9f-6546faf41f49" />
-- Hollow Metal Mold
+- Hollow Metal Mold (The shape the melted plastic is going to take)
   - <img width="275.5" height="186" alt="image" src="https://github.com/user-attachments/assets/0e4727bf-d8e4-477e-b158-8915aad9dd58" />
 
