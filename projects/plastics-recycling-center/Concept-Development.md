@@ -36,3 +36,14 @@ Estimated Time: a few weeks.
 - Hollow Metal Mold (The shape the melted plastic is going to take)
   - <img width="275.5" height="186" alt="image" src="https://github.com/user-attachments/assets/0e4727bf-d8e4-477e-b158-8915aad9dd58" />
 
+## Main Concept
+
+- Outside
+  - 28 by 22 in
+- Inside
+  - 10 by 18 in
+- Strength
+  - 1.5 horse power
+  - 3,450 RPM
+- Power
+  - 230V/115V
