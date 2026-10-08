@@ -47,3 +47,11 @@ Estimated Time: a few weeks.
   - 3,450 RPM
 - Power
   - 230V/115V
+
+## Teeth
+
+<img width="411" height="476" alt="image" src="https://github.com/user-attachments/assets/998f80e0-bf42-40f9-b608-32816218165e" />
+
+## Old Stand
+
+<img width="641" height="606" alt="image" src="https://github.com/user-attachments/assets/6abd884d-e256-41e7-a643-09f017ca55b9" />
