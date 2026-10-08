@@ -55,3 +55,5 @@ Estimated Time: a few weeks.
 ## Old Stand
 
 <img width="641" height="606" alt="image" src="https://github.com/user-attachments/assets/6abd884d-e256-41e7-a643-09f017ca55b9" />
+
+- Would be too wobbly and unstable.
