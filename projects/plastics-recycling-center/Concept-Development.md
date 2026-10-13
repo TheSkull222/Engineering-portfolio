@@ -57,3 +57,7 @@ Estimated Time: a few weeks.
 <img width="641" height="606" alt="image" src="https://github.com/user-attachments/assets/6abd884d-e256-41e7-a643-09f017ca55b9" />
 
 - Would be too wobbly and unstable.
+
+## Filter
+
+<img width="1123" height="259" alt="image" src="https://github.com/user-attachments/assets/0359b9d5-b28b-4b0b-b611-7e73be2ce723" />
