@@ -61,3 +61,11 @@ Estimated Time: a few weeks.
 ## Filter
 
 <img width="1123" height="259" alt="image" src="https://github.com/user-attachments/assets/0359b9d5-b28b-4b0b-b611-7e73be2ce723" />
+
+This is the way we are thinking of making our filter for our shredder so we can save cost by doing it ourselves instead of paying someone else.
+
+## Bill of Materials
+
+<img width="951" height="328" alt="image" src="https://github.com/user-attachments/assets/0b639b19-06c2-41fa-aaf2-2aeaf0567c20" />
+
+This shows how expensive it would be to buy all the parts for our shredder which is important as we have a limited budget.
