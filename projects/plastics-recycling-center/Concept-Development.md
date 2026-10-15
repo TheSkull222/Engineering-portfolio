@@ -3,18 +3,6 @@
 **Student:** Tristan Drew-Allen Stoeckel
 **Course:** Engineering I
 
-## Flow Charts
-
-Number 1:
-<img width="221.5" height="327.5" alt="image" src="https://github.com/user-attachments/assets/e885d10e-bc26-40b5-979c-642722a2634a" />
-
-Number 2:
-<img width="413" height="75.5" alt="image" src="https://github.com/user-attachments/assets/355ee295-f296-42aa-892e-50591f045364" />
-
-## Designs
-
-<img width="190.5" height="218.5" alt="image" src="https://github.com/user-attachments/assets/c9de8208-d422-4d0a-bc10-87f2d9896e95" />
-
 ## Project Schedule Outline
 
 Task: Design the shredder.
@@ -25,42 +13,55 @@ Depends On: How much space and money we have.
 
 Estimated Time: a few weeks.
 
-## Parts
+## How does the shredder work?
 
-- Ceramic Ring Heating Element (For melting the plastic "PET" as it moves through the tube)
-  - 100w/0.91 amps
-  - 15-55 dollars
-  - 900'F-1200'F
-- Archimedes Screw (Pushes the shreds as they melt and pushes the melted plastic into the mold)
-  - <img width="250" height="177" alt="image" src="https://github.com/user-attachments/assets/5c8d5df6-bf52-426d-ab9f-6546faf41f49" />
-- Hollow Metal Mold (The shape the melted plastic is going to take)
-  - <img width="275.5" height="186" alt="image" src="https://github.com/user-attachments/assets/0e4727bf-d8e4-477e-b158-8915aad9dd58" />
+The shredder is simple to use but mistakes can still be made. Put plastic into the funnel at the top while the machine is on, the teeth will crush/cut/rip at the plastic
+making it smaller and smaller. Once small enough it will fall through a curved metal plate with holes that acts like a filter, after it falls through it will land in a
+cart to be transported to another part of the recycling process.
 
-## Main Concept
+## Flow Charts 
+
+Number 1:
+<img width="221.5" height="327.5" alt="image" src="https://github.com/user-attachments/assets/e885d10e-bc26-40b5-979c-642722a2634a" />
+
+Number 2:
+<img width="413" height="75.5" alt="image" src="https://github.com/user-attachments/assets/355ee295-f296-42aa-892e-50591f045364" />
+
+## Designs
+
+Old Design:
+<img width="190.5" height="218.5" alt="image" src="https://github.com/user-attachments/assets/c9de8208-d422-4d0a-bc10-87f2d9896e95" />
+
+# Parts
+
+#### Measurements
 
 - Outside
   - 28 by 22 in
 - Inside
   - 10 by 18 in
-- Strength
+
+#### Motor Specs
+
+  - Strength
   - 1.5 horse power
   - 3,450 RPM
 - Power
   - 230V/115V
 
-## Teeth
+#### Teeth
 
-<img width="411" height="476" alt="image" src="https://github.com/user-attachments/assets/998f80e0-bf42-40f9-b608-32816218165e" />
+<img width="205.5" height="238" alt="image" src="https://github.com/user-attachments/assets/998f80e0-bf42-40f9-b608-32816218165e" />
 
-## Old Stand
+#### Old Stand
 
-<img width="641" height="606" alt="image" src="https://github.com/user-attachments/assets/6abd884d-e256-41e7-a643-09f017ca55b9" />
+<img width="320.5" height="303" alt="image" src="https://github.com/user-attachments/assets/6abd884d-e256-41e7-a643-09f017ca55b9" />
 
 - Would be too wobbly and unstable.
 
-## Filter
+#### Filter
 
-<img width="1123" height="259" alt="image" src="https://github.com/user-attachments/assets/0359b9d5-b28b-4b0b-b611-7e73be2ce723" />
+<img width="561.5" height="129.5" alt="image" src="https://github.com/user-attachments/assets/0359b9d5-b28b-4b0b-b611-7e73be2ce723" />
 
 This is the way we are thinking of making our filter for our shredder so we can save cost by doing it ourselves instead of paying someone else.
 
