@@ -32,6 +32,9 @@ Number 2:
 Old Design:
 <img width="190.5" height="218.5" alt="image" src="https://github.com/user-attachments/assets/c9de8208-d422-4d0a-bc10-87f2d9896e95" />
 
+New Design:
+
+
 # Parts
 
 #### Measurements
@@ -43,7 +46,7 @@ Old Design:
 
 #### Motor Specs
 
-  - Strength
+- Strength
   - 1.5 horse power
   - 3,450 RPM
 - Power
