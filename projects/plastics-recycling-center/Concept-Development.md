@@ -1,4 +1,4 @@
-# Initial Design and Brain Storming
+# Initial Design and Brain Storming - Shredder
 
 **Student:** Tristan Drew-Allen Stoeckel
 **Course:** Engineering I
@@ -33,7 +33,7 @@ Old Design:
 <img width="190.5" height="218.5" alt="image" src="https://github.com/user-attachments/assets/c9de8208-d422-4d0a-bc10-87f2d9896e95" />
 
 New Design:
-
+<img width="272" height="470.5" alt="image" src="https://github.com/user-attachments/assets/9fc528f7-425a-4376-90a3-08208a196f22" />
 
 # Parts
 
@@ -73,3 +73,56 @@ This is the way we are thinking of making our filter for our shredder so we can 
 <img width="951" height="328" alt="image" src="https://github.com/user-attachments/assets/0b639b19-06c2-41fa-aaf2-2aeaf0567c20" />
 
 This shows how expensive it would be to buy all the parts for our shredder which is important as we have a limited budget.
+
+# Initial Design and Brain Storming - Collection / Sorting/ Storage Team
+
+**Student:** Tristan Drew-Allen Stoeckel
+**Course:** Engineering I
+
+## Flow Chart
+
+<img width="554.5" height="450" alt="image" src="https://github.com/user-attachments/assets/b477f086-bcdc-4930-ade3-cc7bf6a0020a" />
+
+## Collection Process
+
+### Areas of collection
+
+- PAC.
+- Cafeteria.
+- Phase 2.
+- Offices.
+
+### Transport
+
+- Some sort of cart, either made of wood or recycled plastic, with wheels.
+- Set up routes and adjust them accordingly.
+
+## Sorting Process
+
+- Take off paper and caps.
+- Sort types of plastics.
+- Put plastics into separate bins.
+
+## Storage
+
+- Have bins, either wood or plastic; to hold plastic.
+
+## Safety
+
+### Personal
+
+- Close Toed Shoes.
+- Gloves and eye protection when near machines.
+- Masks for inhilation protection.
+
+### Machine + Equipment
+
+- Stay alert.
+- Follow warnings.
+- Keep hands/arms/legs/hair from hot or crushing things.
+- Keep areas trip free and clean.
+- Supervisors
+
+### Storage
+
+- crates can only be stacked 3 high.
