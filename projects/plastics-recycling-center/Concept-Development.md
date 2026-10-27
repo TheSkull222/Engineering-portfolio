@@ -97,13 +97,13 @@ This shows how expensive it would be to buy all the parts for our shredder which
 - Some sort of cart, either made of wood or recycled plastic, with wheels.
 - Set up routes and adjust them accordingly.
 
-## Sorting Process
+### Sorting Process
 
 - Take off paper and caps.
 - Sort types of plastics.
 - Put plastics into separate bins.
 
-## Storage
+### Storage
 
 - Have bins, either wood or plastic; to hold plastic.
 
@@ -111,7 +111,7 @@ This shows how expensive it would be to buy all the parts for our shredder which
 
 ### Personal
 
-- Close Toed Shoes.
+- Close toed shoes.
 - Gloves and eye protection when near machines.
 - Masks for inhilation protection.
 
@@ -125,4 +125,15 @@ This shows how expensive it would be to buy all the parts for our shredder which
 
 ### Storage
 
-- crates can only be stacked 3 high.
+- Crates can only be stacked 3 high.
+- Crates must be placed in their zones/area.
+- Crates cannot be sticking out or in a walkway.
+
+# Space for storage
+
+- Shredder: 4.82ft
+- Storage 5.25ft
+
+## sketches
+
+"In progress"
