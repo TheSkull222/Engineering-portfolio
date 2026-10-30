@@ -131,9 +131,23 @@ This shows how expensive it would be to buy all the parts for our shredder which
 
 # Space for storage
 
-- Shredder: 4.82ft
-- Storage 5.25ft
+- Shredder: 4.82ft squared
+- Storage: 5.25ft squared
+- Basement Size: 26ft x 40ft
+- Door: 34.5in width
+- Double Door: 46 3/4in width
+- Entrance Door: 35.5in width
+- Elevator Door: 42in Width
 
 ## sketches
 
-"In progress"
+Workshop:
+<img width="386" height="382" alt="image" src="https://github.com/user-attachments/assets/42665155-c00c-4ea4-921d-2eba6f795523" />
+
+# Plastic Washer
+
+## Sketch
+
+## Cost
+
+## Size
