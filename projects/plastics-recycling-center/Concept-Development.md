@@ -148,6 +148,18 @@ Workshop:
 
 ## Sketch
 
+<img width="938" height="459" alt="image" src="https://github.com/user-attachments/assets/eaf1da8e-70d2-42a9-b354-f9446b56624a" />
+
+Rough Sketch:
+
+Its a hand cranked tumbler design for washing the plastic bottles.
+
 ## Cost
+
+PVC:
+- $0.50-$2.00 per foot
+
+Bucket
+- $10-$50
 
 ## Size
