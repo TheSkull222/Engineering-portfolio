@@ -56,11 +56,15 @@ New Design:
 
 <img width="205.5" height="238" alt="image" src="https://github.com/user-attachments/assets/998f80e0-bf42-40f9-b608-32816218165e" />
 
-#### Old Stand
+#### Old Stand (Not to scale)
 
 <img width="320.5" height="303" alt="image" src="https://github.com/user-attachments/assets/6abd884d-e256-41e7-a643-09f017ca55b9" />
 
 - Would be too wobbly and unstable.
+
+#### New Stand (Not to scale)
+
+<img width="441" height="480" alt="image" src="https://github.com/user-attachments/assets/70a764ab-3386-4dce-b0b5-c6a55a650a99" />
 
 #### Filter
 
@@ -139,14 +143,16 @@ This shows how expensive it would be to buy all the parts for our shredder which
 - Entrance Door: 35.5in width
 - Elevator Door: 42in Width
 
-## sketches
+### sketches
 
 Workshop:
 <img width="386" height="382" alt="image" src="https://github.com/user-attachments/assets/42665155-c00c-4ea4-921d-2eba6f795523" />
 
-# Plastic Washer
+## Plastic Washer (Old Design)
 
-## Sketch
+Will clean the plastic
+
+### Sketch
 
 <img width="938" height="459" alt="image" src="https://github.com/user-attachments/assets/eaf1da8e-70d2-42a9-b354-f9446b56624a" />
 
@@ -154,7 +160,7 @@ Rough Sketch:
 
 Its a hand cranked tumbler design for washing the plastic bottles.
 
-## Cost
+### Cost
 
 PVC:
 - $0.50-$2.00 per foot
@@ -162,4 +168,34 @@ PVC:
 Bucket
 - $10-$50
 
-## Size
+### Volume
+
+424.115 in^3
+
+## Leaver Concept
+
+a contraption to help people lift and dump boxes full of plastic into the washer.
+
+### Process
+-Not finished-
+
+### Measurements
+
+<img width="811" height="379" alt="image" src="https://github.com/user-attachments/assets/12ed1fa6-948c-466f-b759-499fe4b31465" />
+
+### Pros:
+
+- Box attaches to part of leaver making it more solid.
+- Makes loading easier.
+- helps dump plastic.
+- Simple and easy to use.
+- Cheap.
+- Ramp in box allows for easy pour.
+- (Added wheels to allow the board to slide/move easier.)
+
+### Cons:
+
+- Could fail.
+- Stuff might fall. (added leeway to prevent early pouring or late pouring)
+- Might be fragile.
+- Needs to be precise. (We now have precise measurements)
