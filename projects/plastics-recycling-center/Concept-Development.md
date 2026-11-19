@@ -176,8 +176,8 @@ Bucket
 
 a contraption to help people lift and dump boxes full of plastic into the washer.
 
-### Process
--Not finished-
+### Process (We switched designs so this lever is no longer needed)
+
 
 ### Measurements
 
@@ -199,3 +199,46 @@ a contraption to help people lift and dump boxes full of plastic into the washer
 - Stuff might fall. (added leeway to prevent early pouring or late pouring)
 - Might be fragile.
 - Needs to be precise. (We now have precise measurements)
+
+## New washer design
+
+- holds about 59 gallons of water.
+- 33.3in body height.
+- 13in leg height.
+- 22in body diameter.
+
+### Weight
+
+- Max: 360.75 pounds.
+- Average: 240.5 pounds.
+- Minimum: 120.2 pounds.
+
+### Details
+
+- will be pulled up a ramp by pully for dumping into bag.
+
+### Designs
+
+Washer:<img width="253" height="412" alt="image" src="https://github.com/user-attachments/assets/06e72619-8d0c-4c06-9ed7-c6f57c01e6ef" />
+
+- Motor spins the net which catches the bottles and water cleans them as they spin.
+- Can be detached for dumping or easy clean.
+- Mesh at bottom allows gunk through but not caps and bottles.
+
+Pully to washer connection:<img width="496" height="574" alt="image" src="https://github.com/user-attachments/assets/9a277432-7b5a-4823-854c-d67eedb20af4" />
+
+- 1/2 thick long steel bolt.
+- $1.50~
+- 12,000 to 28,000 pound holding strength.
+- Connection is sturdy.
+- Cheap, as we have some of this in the shop or can buy for cheap.
+- Can work in different connection spots if needed.
+- Easy to release.
+
+### Dumping Process
+
+1. Empty water.
+2. Hook up pully.
+3. Pully pulls washer.
+4. Outer part is pulled off allowing plastic to fall.
+5. Plastic lands in reusable bag. 
